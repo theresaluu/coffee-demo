@@ -1,0 +1,8 @@
+/Users/TLuu/Documents/uci/forked_FullStack-Lesson-Plans/App/bin/Debug/netcoreapp1.1/App.deps.json
+/Users/TLuu/Documents/uci/forked_FullStack-Lesson-Plans/App/bin/Debug/netcoreapp1.1/App.runtimeconfig.json
+/Users/TLuu/Documents/uci/forked_FullStack-Lesson-Plans/App/bin/Debug/netcoreapp1.1/App.runtimeconfig.dev.json
+/Users/TLuu/Documents/uci/forked_FullStack-Lesson-Plans/App/bin/Debug/netcoreapp1.1/App.dll
+/Users/TLuu/Documents/uci/forked_FullStack-Lesson-Plans/App/bin/Debug/netcoreapp1.1/App.pdb
+/Users/TLuu/Documents/uci/forked_FullStack-Lesson-Plans/App/obj/Debug/netcoreapp1.1/App.AssemblyInfo.cs
+/Users/TLuu/Documents/uci/forked_FullStack-Lesson-Plans/App/obj/Debug/netcoreapp1.1/App.dll
+/Users/TLuu/Documents/uci/forked_FullStack-Lesson-Plans/App/obj/Debug/netcoreapp1.1/App.pdb
